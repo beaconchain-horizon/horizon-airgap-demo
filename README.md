@@ -104,3 +104,7 @@ This repository contains **only compiled binaries**. The source code is private 
 ---
 
 **© 2026 Horizon Core — MIT License**
+
+## Note: readings_count = 0
+
+The `readings_count` shows 0 after each run because the demo uses `:memory:` database (RAM-only). This is intentional — zero data persists after process termination, which is the core of Air-Gap security.
