@@ -1,0 +1,8 @@
+{
+  "chain_id": "horizon-demo-01",
+  "network_name": "Horizon Demo Network",
+  "created_at": "2026-09-12",
+  "description": "Horizon demo network for benchmark testing",
+  "admin_public_key": "0x973821a9d06ecd59056ffab7bd04474fadf6d712",
+  "air_gap_allowed": true
+}
