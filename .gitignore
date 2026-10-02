@@ -7,3 +7,10 @@ switch.log
 .DS_Store
 Thumbs.db
 *.bak
+config.local.js
+*.local.js
+.env
+.env.*
+*.key
+*.pem
+customers.json
